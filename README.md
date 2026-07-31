@@ -1,1 +1,1 @@
-# Linguagem-e-tecnicas-de-programacao
+# Linguagem e tecnicas de programacao
